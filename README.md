@@ -3,3 +3,5 @@
 
 ブランチで変更
 modify at sno-fast-forward
+
+occur a conflict at main
