@@ -6,3 +6,6 @@ modify at sno-fast-forward
 
 
 occur a conflict
+
+
+git-hub上で更新
