@@ -9,3 +9,4 @@ occur a conflict
 
 
 git-hub上で更新
+conflict-remote上で更新
